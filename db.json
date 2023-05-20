@@ -1,42 +1,83 @@
 {
   "clientes": [
-    {
-      "nombre": "Juan (Actualizado)",
-      "empresa": "Codigo Con Juan",
-      "email": "juan@juan.com",
-      "telefono": "102013313",
-      "notas": "Nueva Notadd",
-      "id": 1
-    },
-    {
-      "id": 4,
-      "nombre": "Miguel",
-      "telefono": 319381983,
-      "email": "miguel@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "id": 5,
-      "nombre": "Pedro",
-      "telefono": 1398198938,
-      "email": "pedro@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "nombre": "Juan Desde React",
-      "empresa": "Codigo con Juan",
-      "email": "correo@correo.com",
-      "telefono": "10901",
-      "notas": "El Cliente desea un ecommerce",
-      "id": 6
-    },
-    {
-      "nombre": "Howiwi",
-      "empresa": "tesji",
-      "email": "pabloomar856@gmail.com",
-      "telefono": "54848",
-      "notas": "htfxytdxtrydx",
-      "id": 7
-    }
-  ]
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "porque y acepta\nacepta rechazar consecuencias rápidas y con\nculpable molestias como esas todo\nnuestro mundo es de hecho, son rem en realidad se avecina el arquitecto"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "quien es este",
+    "body": "es el tiempo de la vida\nseguir sin nada condenable y doloroso, dolores sin\nfugitivos y blandos, placeres hermosos, nada de molestias para rechazar\nquien nunca nos puede deber nada"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "las molestias son casi un ejercicio repelente en sí mismo",
+    "body": "y justo, pero bajo la ley\nfelicidad se elige en todas partes o se niega\ndolorosos placeres y acusaciones\nmolestias, odio y trabajo y verdad"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "él y está oculto",
+    "body": "rechazar la voluptuosidad y la admisión frecuente\nasumiendo una culpa que se supone\nquien se beneficia aquí no sabe que es lo que debe hacer\nquien disfruta de la voluptuosidad de las cosas, incluso eso es"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "no sé qué odiar",
+    "body": "rechazar la búsqueda de lo que está sentado\nalias o huir de lo que está y sin embargo\ntodos los placeres que podemos tener\nes odiar el dolor y no nada"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "el dolor en sí mismo y la grandeza de abrirse",
+    "body": "para evitar el cuerpo, no hay nada que debamos hacer\nla malicia de nada\nseguir y nadie condenado\nlos placeres y los dolores, por supuesto, y los dolores"
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "title": "gran facilidad, sin embargo",
+    "body": "dolor en algún lugar en el cual sea\nnada, y cualquiera que sea el camino que sigamos\nde hecho, no hay nadie que repudie excepto que no haya nada\nson formas de seguir a ellos mismos, incluso en las cosas"
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "title": "el dolor es dolor en sí mismo",
+    "body": "los más dignos de ser dolor que él\nes fácil para aquellos que tienen\nla facilidad de esos espíritus que tienen\nbuscar, mayores son las excepciones\nel mismo placer en sí mismo y el dolor en sí mismo"
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "title": "no conozco todo el dolor y los tiempos y los acusados",
+    "body": "conspiración, dolor y derecho a causar dolor\nporque él y\nque todos somos, pero qué\ny es porque se puede proporcionar placer y placer"
+  },
+  {
+    "userId": 1,
+    "id": 10,
+    "title": "opción de molestias porque él",
+    "body": "por lo tanto y formas fáciles cuando el oficial y magnífico\ndolores que rechazan\nverdaderamente, a menos que te sientes\nlos que perdonan lo que hacen y el error de la verdad"
+  },
+  {
+    "userId": 2,
+    "id": 11,
+    "title": "y él, porque es verdad, porque se lo merece",
+    "body": "elegidos los placeres, sin molestias mínimas, incluso aquellos que son\nacusado en él de esos placeres que se buscan\no para aquellos que no se regocijan, sino para aquellos que están interesados\nno los espíritus mismos"
+  },
+  {
+    "userId": 2,
+    "id": 12,
+    "title": "en algunos casos, el tiempo dolerá",
+    "body": "por lo tanto, el auto muy\naquí y ahora y todo\nmás sabio porque nadie quiere porque él es placer\nincidencias y excepciones, odio distinción"
+  },
+  {
+    "userId": 2,
+    "id": 13,
+    "title": "dolores en placeres y a menudo por qué la mente",
+    "body": "ya sea que él lo diga, podemos decir, pero en dolor\nesto es una afirmación de dolor, placeres, para qué\nlo más pronto posible, se corrompe, ya sea que te opongas\nasumir, rechazar, asumir, por supuesto, el constructor del mismo"
+  }
+]
+  
 }
